@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[📒 每日一记](https://www.wolai.com/ellmc2/jXt1woNoAHgU2yUcm98dxn)
+
 <!--
 **ellmc2/ellmc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
